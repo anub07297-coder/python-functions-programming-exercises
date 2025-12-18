@@ -24,9 +24,9 @@ def calculate_area(length, width):
 
 # Your code below this line
 
-square_area1 = int(calculate_area(4,4))
-square_area2 = int(calculate_area(2, 2))
-square_area3 = int(calculate_area(5, 5))
+square_area1 = int(calculate_area(5, 5))
+square_area2 = int(calculate_area(10, 10))
+square_area3 = int(calculate_area(20, 20))
 print(square_area1)
 print(square_area2)
 print(square_area3)
